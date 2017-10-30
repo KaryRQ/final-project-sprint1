@@ -8,5 +8,9 @@
 5. Se declaran dos arreglos el primero contendrá la frase del usuario y el otro será la que guarde el nuevo arreglo
 conel cifrado realizado
 6. Comenzaremos a recorrer el arreglo, con la longitud del primer arreglo
-7. Se deberan ir agregando los valores en un nuevo arreglo donde se almacenara la posición que les correspin de del cifrado césar
-8. Usaremos el método String fromCharCode () para convertir los valores Ascii en caracteres
+7. Se deberan ir agregando los valores en un nuevo arreglo donde se almacenara la posición que les corresponde del cifrado césar
+8. Se aplica la fórmula de cifrado César al arreglo original
+9. Los resultados se mostrarán en una nueva variable que será la que permita visualizarlo en pantalla
+10. Fin
+
+![Diagrama de flujo](cipher.png)
